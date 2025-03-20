@@ -1,0 +1,65 @@
+/* Fundo branco para o site */
+body {
+    background-color: #cd71f8;
+}
+
+/* Fundo lilás para o cabeçalho e navegação */
+.navbar {
+    background-color: #D8A7D1; /* lilás suave */
+}
+
+/* Cor do texto da navbar */
+.navbar .nav-link {
+    color: #c78efc;
+}
+
+/* Cor do texto da navbar quando estiver em hover */
+.navbar .nav-link:hover {
+    color: #D8A7D1;
+    background-color: #fff;
+}
+
+/* Imagens do carrossel */
+.carousel-inner img {
+    width: 100%;
+    height: 500px;
+}
+
+/* Título e texto do conteúdo */
+.container h1 {
+    color: #000000; /* lilás suave */
+}
+
+.container p {
+    color: #666; /* cor neutra para o parágrafo */
+}
+/* Fundo lilás para a página de quartos */
+.quartos-page {
+    background-color: #D8A7D1; /* lilás suave */
+    padding: 20px 0; /* Adicionando um pouco de espaçamento */
+}
+
+/* Outros estilos do corpo da página já estão no arquivo */
+body {
+    background-color: #a3abec;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Estilos básicos para a área de confirmação */
+#confirmacao {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+#confirmacao h3 {
+    color: #6c757d;
+}
+
+#detalhes {
+    margin-top: 10px;
+}
